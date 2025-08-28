@@ -22,7 +22,7 @@ The link to the deployed space: https://huggingface.co/spaces/Ayush0716/Algorizz
 Clone the repository:
 
 ```bash
-git clone https://huggingface.co/spaces/Ayush0716/Algorizz_Rag_Chatbot
+git clone https://github.com/Ayush080105/Algorizz.git
 cd Algorizz_Rag_Chatbot
 ```
 
