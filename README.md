@@ -2,6 +2,7 @@
 
 This is a Retrieval-Augmented Generation (RAG) chatbot built with **Gradio** and deployed on Hugging Face Spaces.
 You can upload your PDFs and ask questions, and the chatbot will retrieve relevant context before generating an answer.
+The link to the deployed space: https://huggingface.co/spaces/Ayush0716/Algorizz
 
 ---
 
